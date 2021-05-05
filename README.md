@@ -42,11 +42,11 @@ This repo contains script for a simple GAN model to benchmark its performance ac
 
 ### Results 
 1. Personal PC: 
-![1060](static\zoomin-1060gtx-predator.jpg)
+![1060](https://github.com/ASH1998/benchmarkDL/blob/main/static/zoomin-1060gtx-predator.jpg)
 
 - 
 2. AWS
-![AWS](static\zoomin-aws-gdn4xlarge.jpg)
+![AWS](https://github.com/ASH1998/benchmarkDL/blob/main/static/zoomin-aws-gdn4xlarge.jpg)
 ### Disclaimer
 This repo is just for quick benchmarking.
 Running the above model for only 100 epochs wont yeild good results.            
