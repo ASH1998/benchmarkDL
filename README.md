@@ -12,10 +12,10 @@ This repo contains script for a simple GAN model to benchmark its performance ac
 | GAN-hands-100kbatch-100epochs | Personal | core i7     | -            | 25.348 minutes                    |                |
 
 ### Walk through
-- [notebook/](notebook) - stores notebook format  which can be run directly.
+- [notebook/](https://github.com/ASH1998/benchmarkDL/tree/main/notebooks) - stores notebook format  which can be run directly.
 - data/ - (to be created) this will store the downloaded data required for training.
-- [src/](src) - source code directory.
-- [static/](static) - contains image files.
+- [src/](https://github.com/ASH1998/benchmarkDL/tree/main/src) - source code directory.
+- [static/](https://github.com/ASH1998/benchmarkDL/tree/main/static) - contains image files.
 
 ### Requirements
 - Download the data from [googleStorage API.](https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/hand.npy)
