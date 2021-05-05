@@ -1,0 +1,12 @@
+{
+    "r_size": 784,
+    "z_size": 100,
+    "g_units": 128,
+    "d_units": 128,
+    "alpha": 0.01,
+    "smooth": 0.1,
+    "lr": 0.002,
+    "batchsize": 100000,
+    "epochs": 100
+
+}
