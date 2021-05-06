@@ -16,7 +16,7 @@ This repo contains script for a simple GAN model to benchmark its performance ac
 - data/ - (to be created) this will store the downloaded data required for training.
 - [src/](https://github.com/ASH1998/benchmarkDL/tree/main/src) - source code directory.
 - [static/](https://github.com/ASH1998/benchmarkDL/tree/main/static) - contains image files.
-- [src/hyperparameters](https://github.com/ASH1998/benchmarkDL/blob/main/src/hyperParams.json) - contains the hyper params. If OOM issues occurs, we can reduce the `batchsize` in the json file.
+- [src/hyperparameters](https://github.com/ASH1998/benchmarkDL/blob/main/src/hyperParams.json) - contains the hyper params. If OOM issues occur, we need to reduce the `batchsize` in the json file.
 
 ### Requirements
 - Download the data from [googleStorage API.](https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/hand.npy)
@@ -29,7 +29,7 @@ This repo contains script for a simple GAN model to benchmark its performance ac
 `)
 
 ### Execution using Script
-(after all the requirements are installed)
+(after all the needed packages are installed)
 1. Download or clone this repo.
 2. `mkdir data`
 3. `wget https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/hand.npy` (not needed if data has already been downloaded)
